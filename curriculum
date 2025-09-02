@@ -72,45 +72,21 @@ SmallCapsFont  = Fontin-SmallCaps.otf ]
 \textsc{email:} & \href{mailto:gabriellfarah@hotmail.com}{gabriellfarah@hotmail.com}
 \end{tabular}
 
-%----------------------------------------------------------------------------------------
-%	WORK EXPERIENCE 
-%----------------------------------------------------------------------------------------
 
-\section{Experiência}
+% %----------------------------------------------------------------------------------------
+% %	COMPUTER SKILLS 
+% %----------------------------------------------------------------------------------------
 
-\begin{tabular}{r|p{11cm}}
-\emph{fev 2023-Jun 2023} & Estagiário front-end em \textsc{MedKey}, Salvador \\
-& \footnotesize{Treinado em 2 semanas para criação de telas responsivas designadas ao atendimento hospitalar, com funções nativas \textsc{Typescript} utilizando \textsc{Vue 3} como Framework} \\
-\multicolumn{2}{c}{} \\
+\section{Habilidades no Computador}
 
+ \begin{tabular}{rl}
+ Conhecimento em: & \textsc{html, CSS, Javascript, Typescript, Tailwind, Python, Windows,}\\
+ {}& Word\\
 
-%------------------------------------------------
-
-\textsc{Fev 2023-Mar 2023} & Jornada Estelar no \textsc{Rocketseat} \emph{}\\
-& \footnotesize{
-Foi concluída a antiga jornada estelar front-end do site educativo \textsc{Rocketseat}, que atualmente não existe mais, devido à atualização do site }\\
-& Site Referente: \href{https://app.rocketseat.com.br/}{ROCKETSEAT}\\
-\multicolumn{2}{c}{} \\
-
-%------------------------------------------------
-
-\textsc{fev 2024-Nov 2024} & Cursos oferecidos em \textsc{Fundação Bradesco}, Rio de Janeiro \emph{}\\
-& \footnotesize{foram feitos 3 cursos dentro da fundação Localizada em Rua Haddock Lobo, 253, Tijuca:  Lógica e Prática de Programação, Robótica com Arduíno e HTML, CSS e Javascript}\\
-& Site do cadastro: \href{https://fundacao.bradesco/fic/}{Fundação Bradesco}\\
-\multicolumn{2}{c}{} \\
-
-%------------------------------------------------
-
-%  LOOSA - lab. de 
-% optoeletrônica orgânica e sistemas anisotrópicos e na parte do programa, 
-% poderias colocar: ... C++, um programa de tratamento estatística onde aplica 
-% a análise de leis de escalas (scaling laws) para o estudo morfológico em superfícies..."
+Conhecimento básico: & Java, C, C\#, \textsc{php}, my\textsc{sql}, Excel, PowerPoint, \textsc{Linux}\\
+ \end{tabular}
 
 
-\textsc{Jul 2022-Ago 2025} & Ciências da computação \textsc{UVA (Veiga de Almeida)}, Rio De Janeiro \emph{}\\
-& \footnotesize{Cursando Bacharel na faculdade \href{https://www.uva.br/}{Universidade Veiga de Almeida}}. \\{6\textdegree{} semestre}\\
-
-\end{tabular}
 %
 %----------------------------------------------------------------------------------------
 %	EDUCATION
@@ -158,6 +134,47 @@ Foi concluída a antiga jornada estelar front-end do site educativo \textsc{Rock
 % \textsc{June} 2010 & {\textsc{Gmat}\textregistered}\setmainfont[SmallCapsFont= Fontin-SmallCaps.otf]{Fontin-Regular.otf}: 730 (\textsc{q:50;v:39}) 96\textsuperscript{th} percentile; \textsc{awa}: 6.0/6.0 (89\textsuperscript{th} percentile)
 % \end{tabular}
 
+
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE 
+%----------------------------------------------------------------------------------------
+
+\section{Experiência}
+
+\begin{tabular}{r|p{11cm}}
+\emph{fev 2023-Jun 2023} & Estagiário front-end em \textsc{MedKey}, Salvador \\
+& \footnotesize{Treinado em 2 semanas para criação de telas responsivas designadas ao atendimento hospitalar, com funções nativas \textsc{Typescript} utilizando \textsc{Vue 3} como Framework} \\
+\multicolumn{2}{c}{} \\
+
+
+%------------------------------------------------
+
+\textsc{Fev 2023-Mar 2023} & Jornada Estelar no \textsc{Rocketseat} \emph{}\\
+& \footnotesize{
+Foi concluída a antiga jornada estelar front-end do site educativo \textsc{Rocketseat}, que atualmente não existe mais, devido à atualização do site }\\
+& Site Referente: \href{https://app.rocketseat.com.br/}{ROCKETSEAT}\\
+\multicolumn{2}{c}{} \\
+
+%------------------------------------------------
+
+\textsc{fev 2024-Nov 2024} & Cursos oferecidos em \textsc{Fundação Bradesco}, Rio de Janeiro \emph{}\\
+& \footnotesize{foram feitos 3 cursos dentro da fundação Localizada em Rua Haddock Lobo, 253, Tijuca:  Lógica e Prática de Programação, Robótica com Arduíno e HTML, CSS e Javascript}\\
+& Site do cadastro: \href{https://fundacao.bradesco/fic/}{Fundação Bradesco}\\
+\multicolumn{2}{c}{} \\
+
+%------------------------------------------------
+
+%  LOOSA - lab. de 
+% optoeletrônica orgânica e sistemas anisotrópicos e na parte do programa, 
+% poderias colocar: ... C++, um programa de tratamento estatística onde aplica 
+% a análise de leis de escalas (scaling laws) para o estudo morfológico em superfícies..."
+
+
+\textsc{Jul 2022-Ago 2025} & Ciências da computação \textsc{UVA (Veiga de Almeida)}, Rio De Janeiro \emph{}\\
+& \footnotesize{Cursando Bacharel na faculdade \href{https://www.uva.br/}{Universidade Veiga de Almeida}}. \\{6\textdegree{} semestre}\\
+
+\end{tabular}
+
 %----------------------------------------------------------------------------------------
 %	LANGUAGES
 %----------------------------------------------------------------------------------------
@@ -165,25 +182,12 @@ Foi concluída a antiga jornada estelar front-end do site educativo \textsc{Rock
 \section{Linguagens}
 
 \begin{tabular}{rl}
-\textsc{Inglês:} & Fluente \\
+\textsc{Inglês:} & Quase Fluente \\
 
 \textsc{Português:} & Nativo brasileiro\\
 
 \textsc{Espanhol:} & Compreensão básica\\
 \end{tabular}
-
-% %----------------------------------------------------------------------------------------
-% %	COMPUTER SKILLS 
-% %----------------------------------------------------------------------------------------
-
-\section{Computer Skills}
-
- \begin{tabular}{rl}
- Conhecimento em: & \textsc{html, CSS, Javascript, Typescript, Tailwind, Python, Windows,}\\
- {}& Word\\
-
-Conhecimento básico: & Java, C, C\#, \textsc{php}, my\textsc{sql}, Excel, PowerPoint, \textsc{Linux}\\
- \end{tabular}
 
 %----------------------------------------------------------------------------------------
 %	INTERESTS AND ACTIVITIES
