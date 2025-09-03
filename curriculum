@@ -80,10 +80,9 @@ SmallCapsFont  = Fontin-SmallCaps.otf ]
 \section{Habilidades no Computador}
 
  \begin{tabular}{rl}
- Conhecimento em: & \textsc{html, CSS, Javascript, Typescript, Tailwind, Python, Windows,}\\
- {}& Word\\
+ Conhecimento em: & \footnotesize\textsc{html, CSS, Javascript, Typescript, Tailwind, Python, Windows, Word}\\
 
-Conhecimento básico: & Java, C, C\#, \textsc{php}, my\textsc{sql}, Excel, PowerPoint, \textsc{Linux}\\
+Conhecimento básico: & \footnotesize{Java, C, C\#, \textsc{php}, my\textsc{sql}, Excel, PowerPoint, \textsc{Linux}}\\
  \end{tabular}
 
 
@@ -182,11 +181,11 @@ Foi concluída a antiga jornada estelar front-end do site educativo \textsc{Rock
 \section{Linguagens}
 
 \begin{tabular}{rl}
-\textsc{Inglês:} & Quase Fluente \\
+\textsc{Inglês:} & \footnotesize{Quase Fluente} \\
 
-\textsc{Português:} & Nativo brasileiro\\
+\textsc{Português:} & \footnotesize{Nativo brasileiro}\\
 
-\textsc{Espanhol:} & Compreensão básica\\
+\textsc{Espanhol:} & \footnotesize{Compreensão básica}\\
 \end{tabular}
 
 %----------------------------------------------------------------------------------------
